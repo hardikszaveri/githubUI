@@ -1,1 +1,2 @@
-This is test text document for githubUI
+This is test text document for githubUI.
+Second line for second commit
